@@ -1,8 +1,4 @@
-# Git-action
-
-asi
-
-##  Hacks completados:
+# Github Actions Hacks completados:
 
 1. [H-1: Saludo desde terminal](https://github.com/Benyamin50/hack_gh_1_Benyamin50)
 2. [H-2: Detectar eventos](https://github.com/Benyamin50/hack_gh_2_Benyamin50)
